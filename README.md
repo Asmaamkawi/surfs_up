@@ -6,10 +6,15 @@ To perform this analysis we used Python, Pandas, and SQLAlchemy to filter the da
 **Results:**
 
 The Summary Statistics for June month indicates the following results:
-![image]()
+
+
+![image](https://github.com/Asmaamkawi/surfs_up/blob/main/June%20Tem.JPG)
 
 
 The Summary Statistics for December month indicates the following results:
+
+![image](https://github.com/Asmaamkawi/surfs_up/blob/main/December%20Tem.jpg)
+
 
 **Summary:**
 
